@@ -1,0 +1,39 @@
+.portfolio-container {
+  text-align: center;
+  max-width: 70%;
+  margin-left: 13rem;
+}
+
+.deleteStock {
+  margin-right: 7rem;
+  cursor: pointer;
+}
+
+.deleteStock:hover {
+  color: #d54062;
+}
+
+.stockChart {
+  cursor: pointer;
+}
+
+.stockChart:hover {
+  color: #00b7c2;
+}
+
+.returnPositive a {
+  color: #228b22 !important;
+  font-weight: 600;
+}
+
+.returnPositive a:hover {
+  color: #228b22;
+}
+
+.returnNegative a {
+  color: #ff0000 !important;
+}
+
+.returnNegative a:hover {
+  color: #ff0000;
+}
