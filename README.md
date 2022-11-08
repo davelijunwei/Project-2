@@ -1,7 +1,7 @@
 Project 2 
 
 SEI 25 - Project 2 React App
-![alt text](https://git.generalassemb.ly/bananacognac/iwatch/blob/master/public/Images/Screenshot%202020-11-06%20at%2000.33.31.png)
+![alt text](https://github.com/davelijunwei/Project-2/blob/main/public/Images/Screenshot%202020-11-06%20at%2000.33.31.png)
 
 
 I created a single page application for fast and easy tracking of your personal portfolio without a need to constantly login to your TradingHub.
@@ -13,7 +13,7 @@ Users can do the following
 4) Simulate past prices and earnings 
 
 Project WireFrame
-![alt text](https://git.generalassemb.ly/bananacognac/iwatch/blob/master/public/Images/IMG_D0CA02E8334F-1.jpeg)
+![alt text](https://github.com/davelijunwei/Project-2/blob/main/public/Images/IMG_D0CA02E8334F-1.jpeg)
 
 
 
